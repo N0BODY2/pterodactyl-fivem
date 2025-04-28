@@ -37,6 +37,7 @@ export TXHOST_FXS_PORT=${SERVER_PORT}
 export TXHOST_DEFAULT_CFXKEY=${FIVEM_LICENSE}
 export TXHOST_PROVIDER_NAME=${PROVIDER_NAME}
 export TXHOST_PROVIDER_LOGO=${PROVIDER_LOGO}
+export TXHOST_INTERFACE=${SERVER_IP}
 
 # Set the path to the correct binary location for the FiveM server
 SERVER_BIN_PATH="/home/container/alpine/opt/cfx-server/FXServer"
